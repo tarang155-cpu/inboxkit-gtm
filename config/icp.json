@@ -1,0 +1,180 @@
+{
+  "name": "growing-outbound-agencies",
+  "description": "Founders and heads of growth/ops at small outbound, lead-gen and GTM agencies (2 to 50 staff) that run cold email for clients and grew headcount 10%+ in the last 6 to 12 months. Growth means more client onboardings, so more domains, mailboxes and DNS work.",
+  "company": {
+    "size_buckets": [
+      "2-10",
+      "11-50"
+    ],
+    "industries_any": [
+      "Marketing Services",
+      "Advertising Services",
+      "Business Consulting and Services",
+      "Outsourcing and Offshoring Consulting",
+      "IT Services and IT Consulting",
+      "Staffing and Recruiting"
+    ],
+    "strong_keywords_any": [
+      "cold email",
+      "outbound agency",
+      "outbound sales",
+      "outbound systems",
+      "outbound system",
+      "outbound engine",
+      "outbound engines",
+      "outbound prospecting",
+      "appointment setting",
+      "appointment-setting",
+      "lead generation agency",
+      "lead gen agency",
+      "sdr outsourcing",
+      "outsourced sdr",
+      "sdr-as-a-service",
+      "email outreach",
+      "cold outreach",
+      "deliverability",
+      "smartlead",
+      "instantly",
+      "lemlist",
+      "email infrastructure",
+      "outbound infrastructure",
+      "prospecting-as-a-service",
+      "prospecting as a service",
+      "qualified meetings",
+      "book qualified meetings",
+      "multichannel outreach",
+      "multi-channel outreach",
+      "outbound programs",
+      "multichannel outbound",
+      "multi-channel outbound",
+      "sales-qualified appointments",
+      "managed sdrs",
+      "sdr programs"
+    ],
+    "include_keywords_any": [
+      "outbound",
+      "lead generation",
+      "pipeline",
+      "meetings",
+      "appointments",
+      "prospecting",
+      "sdr",
+      "linkedin outreach",
+      "b2b",
+      "sales development",
+      "gtm",
+      "go-to-market",
+      "leads",
+      "outreach",
+      "business development",
+      "decision-makers",
+      "appointment"
+    ],
+    "min_keyword_hits": 2,
+    "exclude_keywords_any": [
+      "scent",
+      "candles",
+      "coffee",
+      "payroll",
+      "warehouse space",
+      "neobank",
+      "media dedicated",
+      "creative agency",
+      "social media agency",
+      "virtual assistants",
+      "call center",
+      "bulk sms",
+      "web design",
+      "content marketing agency",
+      "recruitment partner",
+      "headhunter",
+      "influencer marketing",
+      "ecommerce platform"
+    ],
+    "clay_description_any": [
+      "outbound",
+      "cold"
+    ],
+    "clay_description_any_2": [
+      "meetings",
+      "appointments",
+      "pipeline",
+      "deliverability"
+    ],
+    "clay_signal_clause": "employee_growth_6mo >= 1.1"
+  },
+  "person": {
+    "title_tiers": [
+      [
+        "founder",
+        "co-founder",
+        "cofounder",
+        "owner",
+        "ceo",
+        "chief executive",
+        "managing partner",
+        "managing director",
+        "president",
+        " md",
+        "fundador",
+        "fundadora",
+        "grunder",
+        "fondateur"
+      ],
+      [
+        "coo",
+        "chief operating",
+        "chief growth",
+        "head of growth",
+        "director of growth",
+        "growth architect",
+        "revenue architect",
+        "head of operations",
+        "director of operations",
+        "cto",
+        "chief technology",
+        "partner",
+        "gtm engineer",
+        "chief strategy",
+        "chief revenue"
+      ],
+      [
+        "operations manager",
+        "growth manager",
+        "head of business development",
+        "head of delivery",
+        "head of partnerships",
+        "marketing operations"
+      ]
+    ],
+    "title_exclude_any": [
+      "intern",
+      "advisor",
+      "board",
+      "ambassador",
+      "podcast",
+      "fractional",
+      "council",
+      "assistant",
+      "senior sales director"
+    ],
+    "require_current_company": true,
+    "clay_seniority": [
+      "Founder",
+      "Owner",
+      "C-suite",
+      "Partner"
+    ],
+    "clay_titles_similar": [
+      "Head of Growth",
+      "VP Growth",
+      "Head of Operations"
+    ]
+  },
+  "max_contacts_per_company": 2,
+  "email_patterns": [
+    "{first}@{domain}",
+    "{first}.{last}@{domain}",
+    "{f}{last}@{domain}"
+  ]
+}

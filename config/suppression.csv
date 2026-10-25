@@ -1,0 +1,20 @@
+type,value,reason
+domain,inboxkit.com,own company
+domain,inboxlogy.com,competitor: email infrastructure vendor
+domain,leadsmonky.com,competitor: Google Workspace / M365 mailbox reseller
+domain,clearout.io,vendor: email verification software
+domain,instantly.ai,integration partner: do not prospect
+domain,smartlead.ai,integration partner: do not prospect
+company,Anevo Marketing,existing InboxKit customer (case study)
+company,LeadHaste,existing InboxKit customer (case study)
+company,TGP,existing InboxKit customer (case study)
+company,C17 Lab,existing InboxKit customer (case study)
+company,Cymate,existing InboxKit customer (case study)
+company,ActiScale,existing InboxKit customer (case study)
+company,Lidgen,existing InboxKit customer (case study)
+company,OutreachBloom,existing InboxKit customer (case study)
+company,B2B Boosted,existing InboxKit customer (case study)
+company,Vectify,existing InboxKit customer (case study)
+company,The Playbook Agency,existing InboxKit customer (case study)
+linkedin,https://www.linkedin.com/in/matt-peck1/,DEMO entry: simulated prior unsubscribe to show the check works
+email,demo-optout@example.com,DEMO entry: simulated email-level opt-out

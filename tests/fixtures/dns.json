@@ -1,0 +1,7 @@
+{
+ "MX acme-outbound.com": {"answers": ["1 aspmx.l.google.com."], "status": 0, "ts": 0},
+ "MX deadmail-leads.com": {"answers": [], "status": 0, "ts": 0},
+ "MX gmail.com": {"answers": ["5 gmail-smtp-in.l.google.com."], "status": 0, "ts": 0},
+ "TXT _dmarc.acme-outbound.com": {"answers": ["v=DMARC1; p=none; rua=mailto:x@acme-outbound.com"], "status": 0, "ts": 0},
+ "TXT _dmarc.deadmail-leads.com": {"answers": [], "status": 3, "ts": 0}
+}

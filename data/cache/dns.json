@@ -1,0 +1,1119 @@
+{
+ "MX acebusinessdev.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930754
+ },
+ "MX altisales.com": {
+  "answers": [
+   "1 smtp.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930806
+ },
+ "MX axentradigital.com": {
+  "answers": [
+   "10 smtp.secureserver.net.",
+   "0 axentradigital-com.mail.protection.outlook.com."
+  ],
+  "status": 0,
+  "ts": 1792930763
+ },
+ "MX axiagrowth.com": {
+  "answers": [
+   "10 alt3.aspmx.l.google.com.",
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930810
+ },
+ "MX bleedai.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930739
+ },
+ "MX blueberg.in": {
+  "answers": [
+   "10 alt4.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "1 aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930738
+ },
+ "MX buzzlead.io": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "10 feedback-smtp.us-east-1.amazonses.com."
+  ],
+  "status": 0,
+  "ts": 1792930743
+ },
+ "MX cleverviral.co": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930744
+ },
+ "MX connexu.io": {
+  "answers": [
+   "5 alt2.aspmx.l.google.com.",
+   "1 aspmx.l.google.com.",
+   "10 aspmx2.googlemail.com.",
+   "10 aspmx3.googlemail.com.",
+   "5 alt1.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930809
+ },
+ "MX delegate2xcelerate.com": {
+  "answers": [
+   "0 delegate2xcelerate-com.mail.protection.outlook.com."
+  ],
+  "status": 0,
+  "ts": 1792930905
+ },
+ "MX fatgraphs.com": {
+  "answers": [
+   "0 fatgraphs-com.mail.protection.outlook.com."
+  ],
+  "status": 0,
+  "ts": 1792930906
+ },
+ "MX formanorden.com": {
+  "answers": [
+   "10 mx.zoho.com.",
+   "20 mx2.zoho.com.",
+   "50 mx3.zoho.com."
+  ],
+  "status": 0,
+  "ts": 1792930808
+ },
+ "MX getoutboundconsulting.com": {
+  "answers": [
+   "0 getoutboundconsulting-com.mail.protection.outlook.com."
+  ],
+  "status": 0,
+  "ts": 1792930749
+ },
+ "MX greyabm.com": {
+  "answers": [
+   "10 mx2.hostinger.com.",
+   "5 mx1.hostinger.com."
+  ],
+  "status": 0,
+  "ts": 1792930906
+ },
+ "MX growleads.io": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930738
+ },
+ "MX growthorbit.com": {
+  "answers": [
+   "0 growthorbit-com.mail.protection.outlook.com."
+  ],
+  "status": 0,
+  "ts": 1792930742
+ },
+ "MX harperagency.io": {
+  "answers": [
+   "1 smtp.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930755
+ },
+ "MX hyperke.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930806
+ },
+ "MX insidejobsales.com": {
+  "answers": [
+   "0 insidejobsales-com.mail.protection.outlook.com."
+  ],
+  "status": 0,
+  "ts": 1792930741
+ },
+ "MX iskala.ai": {
+  "answers": [
+   "10 mxb.mailgun.org.",
+   "10 mxa.mailgun.org."
+  ],
+  "status": 0,
+  "ts": 1792930844
+ },
+ "MX kinetyca.com": {
+  "answers": [
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "1 aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930757
+ },
+ "MX leadhq.io": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930740
+ },
+ "MX leadoptixsolutions.com": {
+  "answers": [
+   "0 smtp.secureserver.net.",
+   "10 mailstore1.secureserver.net."
+  ],
+  "status": 0,
+  "ts": 1792930768
+ },
+ "MX leadroad.io": {
+  "answers": [
+   "30 alt2.aspmx.l.google.com.",
+   "20 alt1.aspmx.l.google.com.",
+   "50 alt4.aspmx.l.google.com.",
+   "40 alt3.aspmx.l.google.com.",
+   "10 aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930739
+ },
+ "MX leadsbridgegroup.io": {
+  "answers": [
+   "0 leadsbridgegroup-io.mail.protection.outlook.com."
+  ],
+  "status": 0,
+  "ts": 1792930816
+ },
+ "MX leadsnlatte.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930842
+ },
+ "MX leadzini.com": {
+  "answers": [
+   "1 smtp.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930813
+ },
+ "MX lvraglobal.com": {
+  "answers": [
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "1 aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930764
+ },
+ "MX lynnleadgen.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930745
+ },
+ "MX marketdisc.com": {
+  "answers": [
+   "10 mx.zoho.in.",
+   "20 mx2.zoho.in.",
+   "50 mx3.zoho.in."
+  ],
+  "status": 0,
+  "ts": 1792930844
+ },
+ "MX marketingwithhma.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930741
+ },
+ "MX meetit.fi": {
+  "answers": [
+   "1 smtp.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930761
+ },
+ "MX myntmore.com": {
+  "answers": [
+   "5 alt1.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "1 aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930742
+ },
+ "MX onethirtyfive.com": {
+  "answers": [
+   "5 alt2.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "1 aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930808
+ },
+ "MX openrate.eu": {
+  "answers": [
+   "0 ASPMX.L.GOOGLE.COM.",
+   "20 ALT3.ASPMX.L.GOOGLE.COM.",
+   "20 ALT4.ASPMX.L.GOOGLE.COM.",
+   "10 ALT1.ASPMX.L.GOOGLE.COM.",
+   "10 ALT2.ASPMX.L.GOOGLE.COM."
+  ],
+  "status": 0,
+  "ts": 1792930747
+ },
+ "MX outbound-hub.com": {
+  "answers": [
+   "1 SMTP.GOOGLE.com.",
+   "10 ALT3.ASPMX.L.GOOGLE.com.",
+   "5 ALT1.ASPMX.L.GOOGLE.com.",
+   "5 ALT2.ASPMX.L.GOOGLE.com.",
+   "1 ASPMX.L.GOOGLE.com.",
+   "10 ALT4.ASPMX.L.GOOGLE.com."
+  ],
+  "status": 0,
+  "ts": 1792930904
+ },
+ "MX outboundsystem.com": {
+  "answers": [
+   "10 alt4.aspmx.l.google.com.",
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930750
+ },
+ "MX outpro.us": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930757
+ },
+ "MX pipelinegurus.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930805
+ },
+ "MX pixelodigital.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 aspmx2.googlemail.com.",
+   "10 aspmx3.googlemail.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930735
+ },
+ "MX preciseleads.in": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 aspmx2.googlemail.com.",
+   "10 aspmx3.googlemail.com."
+  ],
+  "status": 0,
+  "ts": 1792930743
+ },
+ "MX pursuitz.io": {
+  "answers": [
+   "1 SMTP.GOOGLE.COM."
+  ],
+  "status": 0,
+  "ts": 1792930740
+ },
+ "MX reachflowz.com": {
+  "answers": [
+   "0 reachflowz-com.mail.protection.outlook.com."
+  ],
+  "status": 0,
+  "ts": 1792930805
+ },
+ "MX reachly.co": {
+  "answers": [
+   "1 SMTP.GOOGLE.COM."
+  ],
+  "status": 0,
+  "ts": 1792930752
+ },
+ "MX recruitmentrevenue.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930812
+ },
+ "MX rev-empire.com": {
+  "answers": [
+   "5 mx1.hostinger.com.",
+   "10 mx2.hostinger.com."
+  ],
+  "status": 0,
+  "ts": 1792930752
+ },
+ "MX robaitec.com": {
+  "answers": [
+   "10 mail.robaitec.com."
+  ],
+  "status": 0,
+  "ts": 1792930759
+ },
+ "MX royalacquisition.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930736
+ },
+ "MX salesboutique.io": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930756
+ },
+ "MX saleshackers.io": {
+  "answers": [
+   "30 mx3.zenbox.pl.",
+   "20 mx2.zenbox.pl.",
+   "10 mx1.zenbox.pl."
+  ],
+  "status": 0,
+  "ts": 1792930846
+ },
+ "MX sculpsynergies.com": {
+  "answers": [
+   "10 mailstore1.secureserver.net.",
+   "0 smtp.secureserver.net."
+  ],
+  "status": 0,
+  "ts": 1792930767
+ },
+ "MX sendtowin.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930753
+ },
+ "MX silverbackgrowth.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 aspmx2.googlemail.com.",
+   "10 aspmx3.googlemail.com."
+  ],
+  "status": 0,
+  "ts": 1792930811
+ },
+ "MX strongestgroup.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930765
+ },
+ "MX succession.bio": {
+  "answers": [
+   "10 alt4.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "1 aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930760
+ },
+ "MX suspecttoprospect.com": {
+  "answers": [
+   "10 mx.zoho.in.",
+   "20 mx2.zoho.in.",
+   "50 mx3.zoho.in."
+  ],
+  "status": 0,
+  "ts": 1792930812
+ },
+ "MX tamtotarget.com": {
+  "answers": [
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "1 aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 mx10.antispam.mailspamprotection.com.",
+   "20 mx20.antispam.mailspamprotection.com.",
+   "30 mx30.antispam.mailspamprotection.com.",
+   "10 alt4.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930762
+ },
+ "MX teamblume.com": {
+  "answers": [
+   "10 alt3.aspmx.l.google.com.",
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930811
+ },
+ "MX therevenue.biz": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 aspmx2.googlemail.com.",
+   "10 aspmx3.googlemail.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930815
+ },
+ "MX throxy.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930737
+ },
+ "MX thyleads.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "1 smtp.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930737
+ },
+ "MX tnx-group.com": {
+  "answers": [
+   "1 smtp.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930814
+ },
+ "MX trueleads.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930759
+ },
+ "MX ultb.io": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930807
+ },
+ "MX upturnly.com": {
+  "answers": [
+   "0 upturnly-com.mail.protection.outlook.com."
+  ],
+  "status": 0,
+  "ts": 1792930758
+ },
+ "MX virtuwise.io": {
+  "answers": [
+   "5 alt2.aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "1 aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930748
+ },
+ "MX weareteamrocket.com": {
+  "answers": [
+   "1 aspmx.l.google.com.",
+   "10 alt3.aspmx.l.google.com.",
+   "10 alt4.aspmx.l.google.com.",
+   "5 alt1.aspmx.l.google.com.",
+   "5 alt2.aspmx.l.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930843
+ },
+ "MX workflows.io": {
+  "answers": [
+   "1 smtp.google.com."
+  ],
+  "status": 0,
+  "ts": 1792930810
+ },
+ "TXT _dmarc.acebusinessdev.com": {
+  "answers": [],
+  "status": 3,
+  "ts": 1792930754
+ },
+ "TXT _dmarc.altisales.com": {
+  "answers": [
+   "v=DMARC1; p=quarantine;"
+  ],
+  "status": 0,
+  "ts": 1792930806
+ },
+ "TXT _dmarc.axentradigital.com": {
+  "answers": [],
+  "status": 3,
+  "ts": 1792930763
+ },
+ "TXT _dmarc.axiagrowth.com": {
+  "answers": [
+   "v=DMARC1; p=quarantine; rua=mailto:dmarc@axiagrowth.com"
+  ],
+  "status": 0,
+  "ts": 1792930810
+ },
+ "TXT _dmarc.bleedai.com": {
+  "answers": [],
+  "status": 3,
+  "ts": 1792930740
+ },
+ "TXT _dmarc.blueberg.in": {
+  "answers": [
+   "v=DMARC1; p=none;"
+  ],
+  "status": 0,
+  "ts": 1792930738
+ },
+ "TXT _dmarc.buzzlead.io": {
+  "answers": [
+   "v=DMARC1; p=quarantine; pct=100; fo=1; rua=mailto:d5a90f@yourdomain.com; ruf=mailto:d5a90f@yourdomain.com; sp=quarantine"
+  ],
+  "status": 0,
+  "ts": 1792930743
+ },
+ "TXT _dmarc.cleverviral.co": {
+  "answers": [
+   "v=DMARC1;p=quarantine;sp=quarantine;pct=100;rua=mailto:rishabh@cleverviral.co;ruf=mailto:rishabh@cleverviral.co;ri=86400;aspf=r;adkim=r;fo=1"
+  ],
+  "status": 0,
+  "ts": 1792930745
+ },
+ "TXT _dmarc.connexu.io": {
+  "answers": [
+   "v=DMARC1; p=none;"
+  ],
+  "status": 0,
+  "ts": 1792930809
+ },
+ "TXT _dmarc.delegate2xcelerate.com": {
+  "answers": [
+   "v=DMARC1; p=none;"
+  ],
+  "status": 0,
+  "ts": 1792930905
+ },
+ "TXT _dmarc.fatgraphs.com": {
+  "answers": [],
+  "status": 3,
+  "ts": 1792930906
+ },
+ "TXT _dmarc.formanorden.com": {
+  "answers": [
+   "v=DMARC1; p=none;"
+  ],
+  "status": 0,
+  "ts": 1792930808
+ },
+ "TXT _dmarc.getoutboundconsulting.com": {
+  "answers": [
+   "v=DMARC1; p=quarantine; pct=100; rua=mailto:support@getoutboundconsulting.com;"
+  ],
+  "status": 0,
+  "ts": 1792930749
+ },
+ "TXT _dmarc.greyabm.com": {
+  "answers": [
+   "v=DMARC1; p=none"
+  ],
+  "status": 0,
+  "ts": 1792930906
+ },
+ "TXT _dmarc.growleads.io": {
+  "answers": [
+   "v=DMARC1; p=quarantine; rua=mailto:malay@growleads.io; ruf=mailto:malay@growleads.io; sp=quarantine; aspf=r; adkim=r; fo=1; pct=100;"
+  ],
+  "status": 0,
+  "ts": 1792930738
+ },
+ "TXT _dmarc.growthorbit.com": {
+  "answers": [
+   "v=DMARC1; p=none; sp=none; rua=mailto:dmarc_aggregate_analyser+324b242678903c10939866f8162724ea@zerobounce.net!5k; ruf=mailto:dmarc_forensics_analyser+324b242678903c10939866f8162724ea@zerobounce.net!5k; rf=afrf; pct=100; ri=86400; fo=1;"
+  ],
+  "status": 0,
+  "ts": 1792930742
+ },
+ "TXT _dmarc.harperagency.io": {
+  "answers": [
+   "v=DMARC1; p=none;"
+  ],
+  "status": 0,
+  "ts": 1792930756
+ },
+ "TXT _dmarc.hyperke.com": {
+  "answers": [
+   "v=DMARC1; p=quarantine; rua=mailto:dmarc@hyperke.com; ruf=mailto:dmarc@hyperke.com; pct=90;"
+  ],
+  "status": 0,
+  "ts": 1792930807
+ },
+ "TXT _dmarc.insidejobsales.com": {
+  "answers": [
+   "v=DMARC1; p=quarantine; rua=mailto:dns@insidejobsales.com; ruf=mailto:dns@insidejobsales.com; fo=1; sp=quarantine; adkim=s; aspf=s"
+  ],
+  "status": 0,
+  "ts": 1792930741
+ },
+ "TXT _dmarc.iskala.ai": {
+  "answers": [
+   "v=DMARC1; p=quarantine; pct=90; sp=none"
+  ],
+  "status": 0,
+  "ts": 1792930845
+ },
+ "TXT _dmarc.kinetyca.com": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:JLgWhPAB+a12eef99-bec0-4ec9-b392-5786dd516380@dmarceguard.com;"
+  ],
+  "status": 0,
+  "ts": 1792930758
+ },
+ "TXT _dmarc.leadhq.io": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:91fwfxor@rua.dmarceye.com; adkim=r; aspf=r; fo=1; ri=86400"
+  ],
+  "status": 0,
+  "ts": 1792930740
+ },
+ "TXT _dmarc.leadoptixsolutions.com": {
+  "answers": [],
+  "status": 3,
+  "ts": 1792930769
+ },
+ "TXT _dmarc.leadroad.io": {
+  "answers": [
+   "v=DMARC1; p=none"
+  ],
+  "status": 0,
+  "ts": 1792930739
+ },
+ "TXT _dmarc.leadsbridgegroup.io": {
+  "answers": [
+   "v=DMARC1; p=reject; pct=100; rua=mailto:tonyanderson@leadsbridgegroup.ca; ruf=mailto:tonyanderson@leadsbridgegroup.ca; sp=none; aspf=r; adkim=r; fo=1;"
+  ],
+  "status": 0,
+  "ts": 1792930816
+ },
+ "TXT _dmarc.leadsnlatte.com": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:dmarc-reports@leadsnlatte.com"
+  ],
+  "status": 0,
+  "ts": 1792930842
+ },
+ "TXT _dmarc.leadzini.com": {
+  "answers": [],
+  "status": 3,
+  "ts": 1792930813
+ },
+ "TXT _dmarc.lvraglobal.com": {
+  "answers": [
+   "v=DMARC1; p=none;"
+  ],
+  "status": 0,
+  "ts": 1792930764
+ },
+ "TXT _dmarc.lynnleadgen.com": {
+  "answers": [
+   "v=DMARC1; p=quarantine; rua=mailto:matasc97@gmail.com"
+  ],
+  "status": 0,
+  "ts": 1792930745
+ },
+ "TXT _dmarc.marketdisc.com": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:davejoy@marketdisc.com; ruf=mailto:davejoy@marketdisc.com; sp=none; adkim=r; aspf=r; pct=100"
+  ],
+  "status": 0,
+  "ts": 1792930844
+ },
+ "TXT _dmarc.marketingwithhma.com": {
+  "answers": [
+   "v=DMARC1; p=quarantine; sp=none; pct=100; rua=mailto:4cf74d5f@mxtoolbox.dmarc-report.com"
+  ],
+  "status": 0,
+  "ts": 1792930742
+ },
+ "TXT _dmarc.meetit.fi": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:tero@meetit.fi; ruf=mailto:tero@meetit.fi; fo=1"
+  ],
+  "status": 0,
+  "ts": 1792930762
+ },
+ "TXT _dmarc.myntmore.com": {
+  "answers": [
+   "v=DMARC1; p=quarantine; rua=mailto:founder@myntmore.com"
+  ],
+  "status": 0,
+  "ts": 1792930743
+ },
+ "TXT _dmarc.onethirtyfive.com": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:dmarc-reports@onethirtyfive.com"
+  ],
+  "status": 0,
+  "ts": 1792930809
+ },
+ "TXT _dmarc.openrate.eu": {
+  "answers": [
+   "v=DMARC1; p=none"
+  ],
+  "status": 0,
+  "ts": 1792930748
+ },
+ "TXT _dmarc.outbound-hub.com": {
+  "answers": [
+   "v=DMARC1; p=none"
+  ],
+  "status": 0,
+  "ts": 1792930904
+ },
+ "TXT _dmarc.outboundsystem.com": {
+  "answers": [
+   "v=DMARC1; p=quarantine; adkim=r; aspf=r; pct=100"
+  ],
+  "status": 0,
+  "ts": 1792930750
+ },
+ "TXT _dmarc.outpro.us": {
+  "answers": [
+   "v=DMARC1; p=quarantine; adkim=r; aspf=r; rua=mailto:dmarc_rua@onsecureserver.net;"
+  ],
+  "status": 0,
+  "ts": 1792930757
+ },
+ "TXT _dmarc.pipelinegurus.com": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:postmaster@pipelinegurus.com; pct=100"
+  ],
+  "status": 0,
+  "ts": 1792930805
+ },
+ "TXT _dmarc.pixelodigital.com": {
+  "answers": [
+   "v=DMARC1; p=none"
+  ],
+  "status": 0,
+  "ts": 1792930736
+ },
+ "TXT _dmarc.preciseleads.in": {
+  "answers": [
+   "v=DMARC1; p=quarantine; rua=mailto:avinash@preciseleads.in; ruf=mailto:avinash@preciseleads.in; fo=1; pct=100"
+  ],
+  "status": 0,
+  "ts": 1792930743
+ },
+ "TXT _dmarc.pursuitz.io": {
+  "answers": [
+   "v=DMARC1; p=none"
+  ],
+  "status": 0,
+  "ts": 1792930740
+ },
+ "TXT _dmarc.reachflowz.com": {
+  "answers": [
+   "v=DMARC1; p=reject; rua=mailto:oscar@reachflowz.com; ruf=mailto:oscar@reachflowz.com; fo=0; pct=100; rf=afrf; ri=604800; sp=reject; aspf=r; adkim=r"
+  ],
+  "status": 0,
+  "ts": 1792930805
+ },
+ "TXT _dmarc.reachly.co": {
+  "answers": [
+   "v=DMARC1; p=reject; pct=100;"
+  ],
+  "status": 0,
+  "ts": 1792930752
+ },
+ "TXT _dmarc.recruitmentrevenue.com": {
+  "answers": [],
+  "status": 3,
+  "ts": 1792930813
+ },
+ "TXT _dmarc.rev-empire.com": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:dmarc@rev-empire.com; pct=100; sp=none"
+  ],
+  "status": 0,
+  "ts": 1792930753
+ },
+ "TXT _dmarc.robaitec.com": {
+  "answers": [],
+  "status": 3,
+  "ts": 1792930759
+ },
+ "TXT _dmarc.royalacquisition.com": {
+  "answers": [
+   "v=DMARC1; p=none;"
+  ],
+  "status": 0,
+  "ts": 1792930736
+ },
+ "TXT _dmarc.salesboutique.io": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:dmarc@salesboutique.io; ruf=mailto:dmarc@salesboutique.io; fo=1; pct=100; adkim=r; aspf=r"
+  ],
+  "status": 0,
+  "ts": 1792930756
+ },
+ "TXT _dmarc.saleshackers.io": {
+  "answers": [
+   "v=DMARC1; p=none; sp=none"
+  ],
+  "status": 0,
+  "ts": 1792930847
+ },
+ "TXT _dmarc.sculpsynergies.com": {
+  "answers": [
+   "v=DMARC1; p=quarantine; adkim=r; aspf=r; rua=mailto:dmarc_rua@onsecureserver.net;"
+  ],
+  "status": 0,
+  "ts": 1792930768
+ },
+ "TXT _dmarc.sendtowin.com": {
+  "answers": [
+   "v=DMARC1;p=none;sp=none;pct=100;rua=mailto:0e3920f42a@rua.easydmarc.us;ruf=mailto:0e3920f42a@ruf.easydmarc.us;ri=86400;aspf=r;adkim=r;fo=1"
+  ],
+  "status": 0,
+  "ts": 1792930754
+ },
+ "TXT _dmarc.silverbackgrowth.com": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:dmarc@silverbackgrowth.com"
+  ],
+  "status": 0,
+  "ts": 1792930811
+ },
+ "TXT _dmarc.strongestgroup.com": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:dmarc-reports@strongesgroup.com"
+  ],
+  "status": 0,
+  "ts": 1792930767
+ },
+ "TXT _dmarc.succession.bio": {
+  "answers": [
+   "v=DMARC1;p=none;sp=none;pct=100;rua=mailto:harrison@succession.bio;ruf=mailto:harrison@succession.bio;ri=86400;aspf=r;adkim=r;fo=0"
+  ],
+  "status": 0,
+  "ts": 1792930760
+ },
+ "TXT _dmarc.suspecttoprospect.com": {
+  "answers": [],
+  "status": 0,
+  "ts": 1792930812
+ },
+ "TXT _dmarc.tamtotarget.com": {
+  "answers": [
+   "v=DMARC1; p=none; aspf=r; adkim=r;"
+  ],
+  "status": 0,
+  "ts": 1792930763
+ },
+ "TXT _dmarc.teamblume.com": {
+  "answers": [
+   "v=DMARC1; p=none;"
+  ],
+  "status": 0,
+  "ts": 1792930811
+ },
+ "TXT _dmarc.therevenue.biz": {
+  "answers": [
+   "v=DMARC1; p=none; "
+  ],
+  "status": 0,
+  "ts": 1792930816
+ },
+ "TXT _dmarc.throxy.com": {
+  "answers": [
+   "v=DMARC1;p=none;rua=mailto:dmarc-reports@throxy.com"
+  ],
+  "status": 0,
+  "ts": 1792930737
+ },
+ "TXT _dmarc.thyleads.com": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:sales@thyleads.com,mailto:prachi@thyleads.com,mailto:rahul@thyleads.com"
+  ],
+  "status": 0,
+  "ts": 1792930738
+ },
+ "TXT _dmarc.tnx-group.com": {
+  "answers": [
+   "v=DMARC1; p=none;"
+  ],
+  "status": 0,
+  "ts": 1792930815
+ },
+ "TXT _dmarc.trueleads.com": {
+  "answers": [
+   "v=DMARC1; p=quarantine; pct=100; rua=mailto:re+v84pxrcppmb@dmarc.postmarkapp.com; sp=none; aspf=r;"
+  ],
+  "status": 0,
+  "ts": 1792930760
+ },
+ "TXT _dmarc.ultb.io": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:9ykmwebd@ag.us.dmarcian.com, mailto:igor.shapiro@ultb.io"
+  ],
+  "status": 0,
+  "ts": 1792930808
+ },
+ "TXT _dmarc.upturnly.com": {
+  "answers": [
+   "v=DMARC1; p=quarantine; pct=100; rua=mailto:Marmik.bapna@Upturnly.com; ruf=mailto:Marmik.bapna@Upturnly.com"
+  ],
+  "status": 0,
+  "ts": 1792930758
+ },
+ "TXT _dmarc.virtuwise.io": {
+  "answers": [
+   "v=DMARC1; p=quarantine; rua=mailto:virtuwise.io; pct=90"
+  ],
+  "status": 0,
+  "ts": 1792930748
+ },
+ "TXT _dmarc.weareteamrocket.com": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:operations@weareteamrocket.com"
+  ],
+  "status": 0,
+  "ts": 1792930843
+ },
+ "TXT _dmarc.workflows.io": {
+  "answers": [
+   "v=DMARC1; p=none; rua=mailto:team@workflows.io"
+  ],
+  "status": 0,
+  "ts": 1792930810
+ }
+}

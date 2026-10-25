@@ -1,0 +1,39 @@
+reject_stage,reject_reason,full_name,title,current_company,company_domain,linkedin_url,email,_source_file,_source_line
+person,stale role: now at 'RockStar Data',Ricard Vidal Batiste,Fundador e inversor,RockStar Data,hellomrlead.com,https://www.linkedin.com/in/ricardvidalbatiste/,,clay_people_export.csv,2
+suppress,DEMO entry: simulated prior unsubscribe to show the check works,Matt Peck,Chief Executive Officer,UpRoar Partners,uproarpartners.com,https://www.linkedin.com/in/matt-peck1/,,clay_people_export.csv,3
+person,stale role: now at 'Zenithal Solutions',Manuel Ferrando,CEO & Co-Founder,Zenithal Solutions,hellomrlead.com,https://www.linkedin.com/in/manuel-ferrando-74220a/,,clay_people_export.csv,7
+person,stale role: now at 'UpRoar Financial',Josh Mastel,President,UpRoar Financial,uproarpartners.com,https://www.linkedin.com/in/josh-mastel-41236621a/,,clay_people_export.csv,15
+person,title out of ICP: 'Executive Council Member',Krystle Reid Wijesuriya,Executive Council Member,The Council for Business with Britain,weareteamrocket.com,https://www.linkedin.com/in/krystlereidwijesuriya/,,clay_people_export.csv,22
+person,stale role: now at 'Avelence',Yananai A. Chiwuta,Founder,Avelence,formanorden.com,https://www.linkedin.com/in/yananaichiwuta/,,clay_people_export.csv,26
+person,stale role: now at 'Workday',Austin Paisar,Director of Partnerships,Workday,altisales.com,https://www.linkedin.com/in/austinpaisar/,,clay_people_export.csv,29
+person,stale role: now at 'RetalReach',Arjav J,Co-Founder,RetalReach,hyperke.com,https://www.linkedin.com/in/arjav-j/,,clay_people_export.csv,34
+person,stale role: now at 'MBWorkers',Bret van Putten,Founder & AI Strategy Lead,MBWorkers,leadhq.io,https://www.linkedin.com/in/bret-van-putten/,,clay_people_export.csv,35
+icp,"not enough ICP keywords (strong=0, weak=1)",Steven Williams,Founder,Drop Growth,dropgrowth.com,https://www.linkedin.com/in/drop/,,clay_people_export.csv,42
+person,stale role: now at 'CEO ARMOR personal protective equipment & solutions',Joaquín Álvarez del Pino,CEO & CoFounder,CEO ARMOR personal protective equipment & solutions,b2bprospecting.agency,https://www.linkedin.com/in/jdelpi/,,clay_people_export.csv,45
+person,stale role: now at 'Rankz',Damjan Grupchev,Co-Founder & CEO,Rankz,pursuitz.io,https://www.linkedin.com/in/grupchev/,,clay_people_export.csv,47
+person,title out of ICP: 'Board of Advisors',Charlie St. Cruz,Board of Advisors,Hunt Master,b2bprospecting.agency,https://www.linkedin.com/in/charliesaintc/,,clay_people_export.csv,51
+person,title out of ICP: 'blank',"Troy Aitken, MBA",,Buzzlead,buzzlead.io,https://www.linkedin.com/in/troy-aitken/,,clay_people_export.csv,57
+person,stale role: now at 'Talind',Aravind Haridas,Co-Founder,Talind,preciseleads.in,https://www.linkedin.com/in/-aravind-haridas/,,clay_people_export.csv,62
+person,title out of ICP: 'Building Hydio',SaiKalyan Chakravarthy Anupindi,Building Hydio,Filesie | Digital Marketing Agency,filesie.com,https://www.linkedin.com/in/anupindi/,,clay_people_export.csv,68
+person,title out of ICP: 'GTM Partners Ambassador',Juan Antonio Liedo Rojo,GTM Partners Ambassador,The Revenue,therevenue.biz,https://www.linkedin.com/in/juanliedo/,,clay_people_export.csv,69
+suppress,competitor: email infrastructure vendor,Sarfaraz Maniyar,Founder,Inboxlogy,inboxlogy.com,https://www.linkedin.com/in/sarfaraz-maniyar-8189532a/,,clay_people_export.csv,72
+person,title out of ICP: 'Head of Commercial and Business Development',Abdullah El-Kammah,Head of Commercial and Business Development,ELSEWEDY ELECTRIC,iskala.ai,https://www.linkedin.com/in/abdullah-el-kammah-74566870/,,clay_people_export.csv,73
+person,title out of ICP: 'Fractional CHRO & COO',Ashley Baquie,Fractional CHRO & COO,BLUME,teamblume.com,https://www.linkedin.com/in/ashleybaquie/,,clay_people_export.csv,75
+suppress,competitor: email infrastructure vendor,Moin Shaikh,Growth Focused Founder,Inboxlogy,inboxlogy.com,https://www.linkedin.com/in/wiselymoin/,,clay_people_export.csv,78
+person,stale role: now at 'Maruti Cargo Express',Tushar Mittal,Executive Director,Maruti Cargo Express,leadzini.com,https://www.linkedin.com/in/tushar-mittal-9445211b8/,,clay_people_export.csv,82
+icp,"not enough ICP keywords (strong=0, weak=1)",Georgey Tishin,Founder,PayPerMerchant,borks.io,https://www.linkedin.com/in/georgey-tishin/,,clay_people_export.csv,86
+icp,"not enough ICP keywords (strong=0, weak=1)",Abdallah Salahi,Head of Operations,Borks,borks.io,https://www.linkedin.com/in/abdallah-salahi-9aaa0824b/,,clay_people_export.csv,91
+person,stale role: now at 'PK Cyber Solutions Inc.',Jack Pittas,Co-Founder & President,PK Cyber Solutions Inc.,acebusinessdev.com,https://www.linkedin.com/in/jack-pittas-422aab115/,,clay_people_export.csv,100
+person,stale role: now at 'Performix Digital',Kunal Khanchandani,Founder,Performix Digital,pixelodigital.com,https://www.linkedin.com/in/kunal-khanchandani-79a56b10b/,,clay_people_export.csv,102
+person,title out of ICP: 'Senior Sales Director',James Wilson,Senior Sales Director,DigitalsGalaxy,digitalsgalaxy.com,https://www.linkedin.com/in/james-wilson-98110a429/,,clay_people_export.csv,103
+person,stale role: now at 'Pegasus Tech Ventures',Sam BALZAN,Director of Corporate Partnerships,Pegasus Tech Ventures,mypurplesales.com,https://www.linkedin.com/in/sambalzan/,,clay_people_export.csv,115
+icp,"not enough ICP keywords (strong=0, weak=1)",Divya Mathiarasan,Co Founder - Product and Growth Strategy,REVEIGO,reveigo.com,https://www.linkedin.com/in/divya-mathiarasan-a50475146/,,clay_people_export.csv,125
+person,title out of ICP: 'Host of SalesDNA Podcast',Harrison Waid,Host of SalesDNA Podcast,Succession,succession.bio,https://www.linkedin.com/in/harrison-waid/,,clay_people_export.csv,126
+person,stale role: now at 'Performance Unit',Aaron Selkrig,Founder/CEO,Performance Unit,meetit.fi,https://www.linkedin.com/in/aaron-selkrig-4bb957a4/,,clay_people_export.csv,128
+icp,"not enough ICP keywords (strong=0, weak=1)",Saranya Shanmugam,Co-Founder & Chief Growth Officer,GrowthEagle,reveigo.com,https://www.linkedin.com/in/saranya-shanmugam-5311231b4/,,clay_people_export.csv,129
+icp,"not enough ICP keywords (strong=0, weak=1)",Josh Dueck,Chief Executive Officer,JKD Agency,jkdagency.com,https://www.linkedin.com/in/joshdueck/,,clay_people_export.csv,135
+icp,"not enough ICP keywords (strong=0, weak=1)",Jacqueline Barreto,Partner,JKD Agency,jkdagency.com,https://www.linkedin.com/in/jacqueline-barreto-5b51b9271/,,clay_people_export.csv,137
+dedupe,duplicate LinkedIn URL (kept line 4),Sunil Arya,Founder,Pixelo Digital,pixelodigital.com,https://www.linkedin.com/in/aryasunil/,,clay_people_export.csv,94
+dedupe,duplicate LinkedIn URL (kept line 5),Haffez Khan,CEO & Founder,Royal Acquisition,royalacquisition.com,https://www.linkedin.com/in/haffez-khan-424727289/,,clay_people_export.csv,95
+dedupe,duplicate LinkedIn URL (kept line 8),Karim Youssef,CEO & Chief Guru,Pipeline Gurus,pipelinegurus.com,https://www.linkedin.com/in/karimyoussefmba/,,clay_people_export.csv,96
+dedupe,duplicate LinkedIn URL (kept line 16),Viraj Fernando,Chief Growth Officer,Lvra,lvraglobal.com,https://www.linkedin.com/in/virajfernandoo/,,clay_people_export.csv,101

@@ -1,0 +1,5 @@
+type,value,reason
+domain,inboxlogy.com,competitor
+company,Anevo Marketing,existing customer
+linkedin,linkedin.com/in/ned-optout,unsubscribed via LinkedIn reply
+email,ola@acme-outbound.com,unsubscribed via email

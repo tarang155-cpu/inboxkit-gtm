@@ -1,0 +1,6 @@
+company_name,domain,size,industry,growth_signal,description,signal_type,signal_evidence,signal_url
+Acme Outbound,acme-outbound.com,11-50,Marketing Services,headcount growth >=10% over 6 months,Cold email agency running client campaigns on Smartlead; appointment setting and qualified meetings,hiring,two cold email campaign managers,https://acme-outbound.com/careers
+Deadmail Leads,deadmail-leads.com,2-10,Marketing Services,headcount growth >=10% over 6 months,Lead generation agency doing cold outreach and appointment setting,hiring,a role whose evidence phrase is far too long to fit in one opener line,
+Coffee Co,coffee-co.com,11-50,Food and Beverage Retail,,Forward thinking coffee,,,
+Inboxlogy,inboxlogy.com,11-50,Marketing Services,,Cold email infrastructure and deliverability platform for outbound,,,
+Anevo Marketing,anevo-demo.com,11-50,Marketing Services,,"Outbound lead generation agency, cold email, appointment setting",,,
